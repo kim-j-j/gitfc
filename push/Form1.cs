@@ -19,7 +19,7 @@ namespace push
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox.Text = "asdf";
+            textBox.Text = "qwer";          
         }
     }
 }
